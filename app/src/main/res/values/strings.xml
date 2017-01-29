@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_sort">Sort by</string>
+    <string name="action_popular">Most popular</string>
+    <string name="action_rated">Highest Rated</string>
+    <string name="error">An error occurs while initializing the app</string>
+    <string name="detail_activity">Movie Detail</string>
+</resources>
